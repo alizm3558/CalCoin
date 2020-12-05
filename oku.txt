@@ -1,0 +1,1 @@
+calcoin.sql belgesi bu program için oluşturulmuş mysql veritabanı belgesidir. Programı çalıltırmadan mysql'i kurunuz ve bu belgeyi içe aktar ile aktarınız.
